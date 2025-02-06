@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\MAESTRIA\CVI\Triangle\DiligentEngine\build\CMakeFiles\98d7607568212fd956c3e855998a4f23\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B73CB3FA-4236-31FF-A9FB-BE2E1ABC6C93}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
